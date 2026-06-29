@@ -1,6 +1,6 @@
 # Privacy Policy — WarmSunday
 
-**Last updated: June 24, 2026**
+**Last updated: June 29, 2026**
 
 WarmSunday is built privacy-first. This policy explains what we do — and mostly do not — with your information.
 
@@ -8,7 +8,9 @@ WarmSunday is built privacy-first. This policy explains what we do — and mostl
 **None that leaves your device.** Your reflections, weekly reviews, check-ins, priorities, and profile (birth date, country, lifestyle answers) are stored locally on your device. We do not run servers that receive this content, and we cannot read it.
 
 ## Analytics & tracking
-WarmSunday does not include third-party advertising or tracking SDKs. We do not track you across apps or websites, and we do not collect an advertising identifier.
+WarmSunday uses **PostHog**, a product-analytics service, to understand how the app is used so we can improve it. We send only anonymous, aggregate usage events (for example: app opened, a weekly review completed, the upgrade screen shown). We do **not** send the content of your reflections, letters, notes, or answers.
+
+WarmSunday does not include advertising SDKs, does not use an advertising identifier, and does not track you across other apps or websites. You can turn analytics off at any time in **Settings → Privacy** inside the app.
 
 ## Purchases
 Subscriptions and the Founder Pass are processed by Apple through the App Store. We never see your payment details. Apple may provide us anonymous, aggregated sales data as part of normal App Store reporting.
